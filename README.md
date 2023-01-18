@@ -39,4 +39,5 @@
 
 ---
 
-**Mentor**: [@MrLouzao]([https://github.com/MrLouzao])
+**Mentor**: 
+"MrLouzao" https://github.com/MrLouzao
