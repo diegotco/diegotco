@@ -12,9 +12,9 @@
   	<a href="https://github.com/diegotco?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/diegotco?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
 	
 </p>
----
+<br/>
 
-🌱 Always a learner. **Python and NodeJS by now**. Rust will be next.<br/><br/>
+🌱 Always a learner. **Python and NodeJS by now**. Rust will be next.
 
 ---
 <br/>
@@ -27,7 +27,6 @@
 	<img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
   <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-green?logo=nodejs&logoColor=white"></a>
 </p>
-<br/>
 
 
 ### 🗄️ Databases and cloud hosting
