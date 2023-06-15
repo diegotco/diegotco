@@ -14,7 +14,7 @@
 </p>
 <br/>
 
-🌱 Always a learner. **Python and NodeJS by now**. Rust will be next.
+🌱 Always a learner. **Python, NodeJS, and Java**.
 
 ---
 <br/>
