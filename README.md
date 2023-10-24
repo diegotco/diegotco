@@ -24,8 +24,7 @@
 
 ### 💻 Programming Languages
 <p>
-	<img alt="Java" src="https://img.shields.io/badge/Java%20-%23007396.svg?logo=Java&logoColor=white"></a>
-	
+	<img alt="Java" src="https://img.shields.io/badge/Java%20-%2314354C.svg?logo=java&logoColor=white"></a>
 	<img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
  	<img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-green?logo=nodejs&logoColor=white"></a>
 </p>
