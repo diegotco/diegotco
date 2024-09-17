@@ -14,7 +14,7 @@
 </p>
 <br/>
 
-🌱 Always a learner. **Java, NodeJS, and Python**.
+🌱 Always a learner. **Python, Java, and Rust**.
 
 ---
 <br/>
