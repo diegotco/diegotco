@@ -14,7 +14,7 @@
 </p>
 <br/>
 
-🌱 Always a learner. **Python, Java, and Rust**.
+🌱 Always a learner. **Trading and coding**.
 
 ---
 <br/>
